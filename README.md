@@ -1,4 +1,6 @@
 # dfpnewco
+![language:Python](https://img.shields.io/badge/Language-Java-red.svg?style=flat-square) ![license:MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square) 
+
 GCP Dataflow Implementation to Ingest data into BigQuery
 
 ## Setup
