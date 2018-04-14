@@ -7,7 +7,7 @@ import java.util.Date;
 import java.sql.Timestamp;
 
 public class LineItemElements implements Serializable { 
-	// Must be serializable to be included within a PCollection
+    // Must be serializable to be included within a PCollection
     private static final long serialVersionUID = -4502791666748533137L;
   
     public Integer lIId;
