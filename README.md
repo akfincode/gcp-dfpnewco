@@ -1,7 +1,7 @@
 # dfpnewco
 ![language:Java](https://img.shields.io/badge/Language-Java-red.svg?style=flat-square) 
 
-GCP Dataflow Implementation to Ingest data into BigQuery
+GCP Dataflow Implementation to ingest data into BigQuery
 
 ## Setup
 
