@@ -13,6 +13,12 @@ You will need the following:
 + Maven (```brew install maven```, ```sudo apt-get install maven```, GCP Ubuntu)
 + SLF4J
 
+----
+
+![inline](assets/GCP_Slide.png)
+
+----
+
 ## Run the dfpnewco application
 
 After you've made the necessary changes, do a clean build:
