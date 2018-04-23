@@ -1,7 +1,7 @@
 # dfpnewco
 ![language:Java](https://img.shields.io/badge/Language-Java-red.svg?style=flat-square) 
 
-GCP Dataflow Implementation to ingest DoubleClick times series data into BigQuery. This implementation
+GCP Dataflow Implementation to ingest DoubleClick time series data into BigQuery. This implementation
 demonstrates and highlights the use of Dataflow as a better alternative to Lambda architecture.
 
 ## Setup
