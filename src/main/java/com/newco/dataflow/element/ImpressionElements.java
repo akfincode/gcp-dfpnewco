@@ -7,12 +7,12 @@ import java.util.Date;
 import java.sql.Timestamp;
 
 public class ImpressionElements implements Serializable { 
-    // Must be serializable to be included within a PCollection
-    private static final long serialVersionUID = -5502791666748533137L;
-  
-    public Integer iMId;
-    public Integer iMSK;
-    public String iMDateStamp;
+	// Must be serializable to be included within a PCollection
+	private static final long serialVersionUID = -5502791666748533137L;
+
+	public Integer iMId;
+	public Integer iMSK;
+	public String iMDateStamp;
 	public String iMCurrIndex;
 	public Integer iMServedCount;
 	public Integer iMTotalImpressions;
