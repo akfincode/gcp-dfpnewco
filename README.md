@@ -25,3 +25,4 @@ Then run the main Dataflow pipeline to load data into BigQuery:
 
 ```
 mvn -Pgcp exec:exec -Dexec.mainClass="com.newco.dataflow.pipeline.LineItemTransformPipeline"
+```
