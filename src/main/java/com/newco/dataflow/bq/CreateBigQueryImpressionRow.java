@@ -15,9 +15,10 @@ import com.newco.dataflow.element.ImpressionElements;
  * {@link DoFn} Contains logic for transforming data into BigQuery
  * <p>
  * Class definition extends DoFn, which is represented to take in a String and return a String.
+ *
  */
 public class CreateBigQueryImpressionRow extends DoFn < ImpressionElements, TableRow > {
-	private static final long serialVersionUID = 7935252322013725933L;
+	private static final long serialVersionUID = 793525232201375933L;
 	private static final Logger LOGGER = LoggerFactory.getLogger(CreateBigQueryImpressionRow.class);
 	private final Aggregator < Integer, Integer > processed;
 	private final Aggregator < Integer, Integer > exceptions;
