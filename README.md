@@ -6,7 +6,7 @@ demonstrates and highlights the use of Dataflow as a better alternative to Lambd
 
 ## Setup
 
-You will need the following:
+You will need the following :::
 
 + GCP credentails
 + Dataflow SDK 1.x for Java
